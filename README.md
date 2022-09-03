@@ -1,7 +1,7 @@
 # About the Repository
 Codes that were created for Introduction to the Artificial Intelligence, computer science mandatory class at Universidade Federal da Paraíba, taught by professor Dra. Thais Gaudencio. 
 I do not own the copyright to the screenplays used in this study project. 
-There was no monetary profit from the classes final project.
+There was no monetary profit from this project.
 
 # About the exam files (Primeira Prova.ipynb, Segunda Prova.ipynb)
 Questions and answers in brazilian portuguese only and I don't plan in translating it anytime soon. The questionnaire was made by the professor and answered by me.
