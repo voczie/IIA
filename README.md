@@ -20,7 +20,7 @@ The Incelnator 3000 idea came from the observation of an emerging phenomena (tha
 *Incel Movies* recently became like an "inside joke" at the Wide Web, and that's why we thoroughly chose some of those cinematographic works to fine-tune a GPT-2 model (Distil GPT-2, precisely), so we could generate more of those fantastic movies.
 
 ## What is an Incel?
-Incel is a abbreviation for *involutary celibate/celibatary*. This group of people declare that they are unable, through their fault or not, of having a relationship with a woman.
+Incel is an abbreviation for *involutary celibate/celibatary*. This group of people declare that they are unable, through their fault or not, of having a relationship with a woman.
 The majority of these people are really insufferable, and that's why they quickly became a **hated** troupe at the Internet. There is a bunch of *memes* about incels that can be found easily when navigating the web.
 
 ## What defines an "Incel Movie"?
