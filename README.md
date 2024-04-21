@@ -1,5 +1,5 @@
 # About this Repository
-Codes that were created for Introduction to the Artificial Intelligence, computer science mandatory class at Universidade Federal da Paraíba, taught by professor Dra. Thaás Gaudencio. I do not own the copyright to the screenplays used in this study project. There was no monetary profit from this project.
+Codes that were created for Introduction to the Artificial Intelligence, computer science mandatory class at Universidade Federal da Paraíba, taught by professor Dra. Thais Gaudencio. I do not own the copyright to the screenplays used in this study project. There was no monetary profit from this project.
 
 <hr>
 
